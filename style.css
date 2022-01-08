@@ -82,7 +82,7 @@ button{
     background-color: white;
     border-radius: 20px;
     margin: 2rem;
-    color: violet;
+    color: red;
 }
 nav{
     display: flex;
